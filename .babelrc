@@ -1,0 +1,10 @@
+{
+    // cấu hình babel và react
+    "presets": [
+        "@babel/preset-env",
+        "@babel/preset-react"
+    ],
+    "plugins": [
+        "@babel/plugin-transform-arrow-functions"
+    ]
+}

@@ -1,0 +1,14 @@
+#dependency 
+/node_modules
+
+#production
+
+/dist
+
+#package
+
+/package-lock.json
+
+# ignore all logs and cache
+cache/*
+log/*
